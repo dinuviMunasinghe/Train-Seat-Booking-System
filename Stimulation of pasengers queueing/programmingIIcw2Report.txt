@@ -1,0 +1,6 @@
+                   Details of the stimulation
+The maximum length of the queue: 1
+The maximum waiting time: 9 seconds
+The minimum waiting time: 9 seconds
+The average waiting time: 9
+Name: geethika        Id: 2223        Seat No: 29        Seconds In Queue: 9
